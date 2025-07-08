@@ -2,7 +2,7 @@
 
 
 REPO_URL="https://${GITHUB_TOKEN}@github.com/revanthsalagundi/github.git"
-BRANCH="main"  # or master, if your repo uses that
+BRANCH="master"  # or master, if your repo uses that
 git config --global user.name "revanthsalagundi"
 git config --global user.email "revanth.s@telusinternational.com"
 
